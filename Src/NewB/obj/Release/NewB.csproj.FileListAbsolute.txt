@@ -1,0 +1,44 @@
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\bin\Release\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\bin\Release\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\Release\NewB.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\Release\NewB.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\Release\NewB.csproj.GenerateResource.Cache
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\Release\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\Release\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\bin\Release\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\bin\Release\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.csproj.GenerateResource.Cache
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\Release\NewB.csproj.ResolveComReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.csproj.ResolveComReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\bin\Release\NewB.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\bin\Release\NewB.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\bin\Release\NewB.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB - Form - C#\NewB\obj\Release\NewB.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB\NewB\bin\Release\NewB.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB\NewB\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB\NewB\obj\Release\NewB.csproj.ResolveComReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB\NewB\obj\Release\NewB.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\NewB by Mic\NewB\NewB\obj\Release\NewB.pdb
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Release\NewB.exe.config
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Release\NewB.exe
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Release\NewB.pdb
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.csproj.ResolveComReference.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.Form1.resources
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.exe
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Release\NewB.pdb

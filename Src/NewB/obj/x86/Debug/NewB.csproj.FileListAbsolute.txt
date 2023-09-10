@@ -1,0 +1,14 @@
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\bin\Debug\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\bin\Debug\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\x86\Debug\NewB.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\x86\Debug\NewB.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\x86\Debug\NewB.csproj.GenerateResource.Cache
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\x86\Debug\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form\NewB\obj\x86\Debug\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\x86\Debug\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\x86\Debug\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\bin\Debug\NewB.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\bin\Debug\NewB.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\x86\Debug\NewB.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\x86\Debug\NewB.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\NewB (LOIC)\NewB - Form - C#\NewB\obj\x86\Debug\NewB.csproj.GenerateResource.Cache

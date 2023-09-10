@@ -1,0 +1,12 @@
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Debug\NewB.exe.config
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Debug\NewB.exe
+C:\Users\mic\Documents\GitHub\NewB\NewB\bin\Debug\NewB.pdb
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.csproj.ResolveComReference.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.Form1.resources
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.exe
+C:\Users\mic\Documents\GitHub\NewB\NewB\obj\Debug\NewB.pdb
